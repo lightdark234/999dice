@@ -15,7 +15,7 @@
      "Max Bet": "OFF",
      "Chance": "90",
      "Random Chance": {
-          "Toggle": "ON",
+          "Toggle": "OFF",
           "Min": "5",
           "Max": "10"
         },
