@@ -6,6 +6,9 @@
      },
  "Target Profit": "999.00000000",
  "Target Win": "999.00000000",
+ "Lose Target": "0",
+  "Reset If Target Profit": "OFF",
+ "Reset If Target Win": "OFF",
  "Interval": "1",
  "Config": [{
 
@@ -21,7 +24,7 @@
      "Bet": {
           "Bet": "Hi",
           "Hi / Low": {
-              "Toggle": "OFF",
+              "Toggle": "ON",
               "If Lose": "5",
               "If Win": "7"
             }
@@ -29,7 +32,7 @@
      "If Win": "2",
      "If Lose": "3.5",
      "Reset If Win": "2",
-     "Reset If Profit": "OFF",
+     "Reset If Profit": "ON",
      "Interval": "1"
      }
   ],
