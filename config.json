@@ -13,7 +13,7 @@
      "Name Bet Set": "Mining",
      "Base Bet": "0.0001",
      "Max Bet": "OFF",
-     "Chance": "40",
+     "Chance": "90",
      "Random Chance": {
           "Toggle": "ON",
           "Min": "5",
@@ -23,13 +23,13 @@
           "Bet": "Hi",
           "Hi / Low": {
               "Toggle": "OFF",
-              "If Lose": "2",
-              "If Win": "4"
+              "If Lose": "5",
+              "If Win": "7"
             }
         },
-     "If Win": "0.7",
-     "If Lose": "1.15",
-     "Reset If Win": "1",
+     "If Win": "2",
+     "If Lose": "3.5",
+     "Reset If Win": "2",
      "Reset If Profit": "OFF",
      "Interval": "1"
      }
