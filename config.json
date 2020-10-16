@@ -13,7 +13,7 @@
  "Config": [{
 
      "Name Bet Set": "Mining",
-     "Base Bet": "0.0001",
+     "Base Bet": "balance/200",
      "Max Bet": "OFF",
      "Chance": "90",
      "Random Chance": {
