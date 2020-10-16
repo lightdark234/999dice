@@ -7,7 +7,7 @@
  "Target Profit": "999.00000000",
  "Target Win": "999.00000000",
  "Lose Target": "0.00000",
- "Interval": "100",
+ "Interval": "1",
  "Config": [{
 
      "Name Bet Set": "Mining",
